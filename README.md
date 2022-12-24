@@ -10,20 +10,22 @@ Include your ER diagram here
 ## DESIGN STEPS
 
 ### STEP 1:
-
+Create a new Django project using "django-admin startproject",get into the project terminal and use
+"python3 manage.py startapp" command.
 ### STEP 2:
-
+Allow host access and add the app name under installed apps in settings.py
 ### STEP 3:
 
-Write your own steps
+Register the models with the Django admin site. 
 
 ## PROGRAM
+```
+from django.contrib import admin
 
-Include your code here
-
+# Register your models here.
+```
 ## OUTPUT
 
-Include the screenshot of your admin page.
 
 
 ## RESULT
