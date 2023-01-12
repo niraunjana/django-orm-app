@@ -38,7 +38,12 @@ from.models import Employee,EmployeeAdmin
 admin.site.register(Employee,EmployeeAdmin)s
 ```
 ## OUTPUT
+![Screenshot (44)](https://user-images.githubusercontent.com/119395610/211968390-b9aa9aaa-30ca-4308-b365-62282ab10203.png)
+
+
+
 
 
 
 ## RESULT
+Successfully created the web page
